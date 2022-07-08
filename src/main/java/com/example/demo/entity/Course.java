@@ -21,6 +21,7 @@ import lombok.Setter;
  */
 @Getter
 @Setter
+
 @ApiModel(value = "Course对象", description = "")
 public class Course implements Serializable {
 
